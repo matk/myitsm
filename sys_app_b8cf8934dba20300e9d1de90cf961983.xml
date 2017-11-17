@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="myitsm">74cf4934dba20300e9d1de90cf961969</menu>
+        <menu/>
         <name>myitsm</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -28,7 +28,7 @@
         <sys_updated_on>2017-11-17 22:34:45</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_70398_myitsm.user" name="x_70398_myitsm.user">30cf4934dba20300e9d1de90cf96196c</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
